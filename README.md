@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/2c06be51-b79e-4736-8b7f-0d498fa85fd7
+launch and create youre own meme coins
 
 ## How can I edit this code?
 
